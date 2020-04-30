@@ -1,5 +1,6 @@
 # pedigest
 Helper functions for calculating the authenticode digest for a portable executable file.
+This repo complements the [CiDllDemo](https://github.com/Ido-Moshe-Github/CiDllDemo) repository.
 
 This piece of code was originally meant to run in kernel mode but it works just as well in userland too. 
 
